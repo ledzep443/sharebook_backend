@@ -1,3 +1,6 @@
+# This is the backend for [ShareBook](https://github.com/ledzep443/sharebook_frontend)
+This was used for development only
+
 # Sanity Clean Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
